@@ -1,6 +1,6 @@
 # Book-Management-System
  With the goal of creating such a software that would help the world in any way possible, I decided that I would work on creating a system that would help out many institutes in the world by giving them access to a database that would store information about the books in their institute but also secure the data of different faculty, courses, departments and such all in a single database that would easily be accessible for viewing and would be modified through the system’s minimalistic and basic interface.
- /n
+ 
 # Benefits: 	
  Currently even in these modern times many libraries in the city or especially in the rural areas are using obsolete ways of managing their data. This system aims at modernizing that.
 The proposed system will present them with a simple user-interface with versatile options and possibilities
